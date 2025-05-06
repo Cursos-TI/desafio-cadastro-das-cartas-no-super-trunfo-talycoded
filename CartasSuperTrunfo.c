@@ -5,7 +5,7 @@ main(){
 //Primeiro estado
 
 
-char estado1;
+char estado1[5];
 char codigo1[5];
 char cidade1[20];
 int populacao1;
@@ -15,7 +15,7 @@ int pontosturisticos1;
 
 //Segundo estado
 
-char estado2;
+char estado2[5];
 char codigo2[5];
 char cidade2[20];
 int populacao2;
